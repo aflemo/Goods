@@ -1,0 +1,26 @@
+[
+  {
+    "id": 12,
+    "name": "Очки-ААВ",
+    "price": 500,
+    "currency": "грн",
+    "category": "Очки",
+    "image_url": "https://drive.google.com/file/d/1vMPfFJArYRLd_hbSoOmi5h4WX_08xtp6/view?usp=drive_link"
+  },
+  {
+    "id": 15,
+    "name": "Очки-АА",
+    "price": 450,
+    "currency": "грн",
+    "category": "Очки",
+    "image_url": "https://drive.google.com/file/d/1jZVj1iv-M3UA27gbJigPMaBjxK2pThon/view?usp=drive_link"
+  },
+  {
+    "id": 29,
+    "name": "Очки-SS24",
+    "price": 1800,
+    "currency": "грн",
+    "category": "Очки",
+    "image_url": "https://drive.google.com/file/d/1zsdN-I3RJN6vAmkuKUT1ObiBx7_BPsN6/view?usp=drive_link"
+  }
+]
