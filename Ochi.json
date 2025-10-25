@@ -2,21 +2,21 @@
   {
     "id": 1,
     "Модель": "ААВ",
-    "Цена": 500 "грн",
+    "Цена": 500,
     "category": "Очки",
     "image_url": "https://drive.google.com/file/d/1vMPfFJArYRLd_hbSoOmi5h4WX_08xtp6/view?usp=drive_link"
   },
   {
     "id": 2,
     "Модель": "АА",
-    "Цена": 450 "грн",
+    "Цена": 450,
     "category": "Очки",
     "image_url": "https://drive.google.com/file/d/1jZVj1iv-M3UA27gbJigPMaBjxK2pThon/view?usp=drive_link"
   },
   {
     "id": 3,
     "Модель": "SS24",
-    "Цена": 1800 "грн",
+    "Цена": 1800,
     "category": "Очки",
     "image_url": "https://drive.google.com/file/d/1zsdN-I3RJN6vAmkuKUT1ObiBx7_BPsN6/view?usp=drive_link"
   }
