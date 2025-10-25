@@ -4,20 +4,20 @@
     "Модель": "ААВ",
     "Цена": 500,
     "category": "Очки",
-    "image_url": "https://drive.usercontent.google.com/download?id=1vMPfFJArYRLd_hbSoOmi5h4WX_08xtp6&export=view"
+    "image_url": "https://raw.githubusercontent.com/aflemo/Goods/refs/heads/main/AAB-ochi.jpg"
   },
   {
     "id": 2,
     "Модель": "АА",
     "Цена": 450,
     "category": "Очки",
-    "image_url": "https://drive.google.com/file/d/1jZVj1iv-M3UA27gbJigPMaBjxK2pThon/view?usp=drive_link"
+    "image_url": "https://raw.githubusercontent.com/aflemo/Goods/refs/heads/main/AA-ochi.jpg"
   },
   {
     "id": 3,
     "Модель": "SS24",
     "Цена": 1800,
     "category": "Очки",
-    "image_url": "https://drive.google.com/file/d/1zsdN-I3RJN6vAmkuKUT1ObiBx7_BPsN6/view?usp=drive_link"
+    "image_url": "https://raw.githubusercontent.com/aflemo/Goods/refs/heads/main/SS24-ochi.jpg"
   }
 ]
