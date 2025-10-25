@@ -1,26 +1,23 @@
 [
   {
-    "id": 101,
-    "name": "Кроссовки-AW24",
-    "price": 2500,
-    "currency": "грн",
-    "category": "Обувь",
+    "id": 1,
+    "Модель": "AW24",
+    "Цена": 2500 грн.,
+    "category": "Кроссовки",
     "image_url": "https://drive.google.com/file/d/1E-SxZu0HSLKZGBo9voLpYkflRC0l1rNh/view?usp=drive_link"
   },
   {
-    "id": 102,
-    "name": "Кроссовки-AF245",
-    "price": 4500,
-    "currency": "грн",
-    "category": "Обувь",
+    "id": 2,
+    "Модель": "AF245",
+    "Цена": 4500 грн,
+    "category": "Кроссовки",
     "image_url": "https://drive.google.com/file/d/1aO1o-Tel94Y9OTk9sOQhDZ-l2Lkcwp4X/view?usp=drive_link"
   },
   {
-    "id": 201,
-    "name": "Кроссовки-SS25",
-    "price": 1800,
-    "currency": "грн",
-    "category": "Обувь",
+    "id": 3,
+    "Модель": "SS25",
+    "Цена": 1800 грн,
+    "category": "Кроссовки",
     "image_url": "https://drive.google.com/file/d/1ab9iy4jtZhjxaSrazUhZ2ejkC6vn7Lr-/view?usp=drive_link"
   }
 ]
