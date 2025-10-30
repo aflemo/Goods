@@ -4,7 +4,7 @@
     "Модель": "AW24",
     "Цена": 2500,
     "category": "Кроссовки",
-    "Размеры" : "39, 40, 41, 42, 43, 44",
+    "Размеры" :"39, 40, 41, 42, 43, 44",
     "Описание": "Описание, характеристики.",
     "image_url": "https://raw.githubusercontent.com/aflemo/Goods/refs/heads/main/AW24-kros.jpg"
   },
