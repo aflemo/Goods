@@ -1,6 +1,5 @@
-[
   {
-    "id": 1,
+    "Код товара": 1,
     "Модель": "ААВ",
     "Цена": 500,
     "category": "Очки",
@@ -8,7 +7,7 @@
     "image_url": "https://raw.githubusercontent.com/aflemo/Goods/refs/heads/main/AAB-ochi.jpg"
   },
   {
-    "id": 2,
+    "Код товара": 2,
     "Модель": "АА",
     "Цена": 450,
     "category": "Очки",
@@ -16,11 +15,11 @@
     "image_url": "https://raw.githubusercontent.com/aflemo/Goods/refs/heads/main/AA-ochi.jpg"
   },
   {
-    "id": 3,
+    "Код товара": 3,
     "Модель": "SS24",
     "Цена": 1800,
     "category": "Очки",
     "Описание": "Описание, характеристики.",
     "image_url": "https://raw.githubusercontent.com/aflemo/Goods/refs/heads/main/SS24-ochi.jpg"
   }
-]
+
