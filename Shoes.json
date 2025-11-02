@@ -7,7 +7,7 @@
     "Размеры" :"39, 40, 41, 42, 43, 44",
     "Описание": "Материал изготовления, характеристики.",
     "image_url": "https://raw.githubusercontent.com/aflemo/Goods/refs/heads/main/AW24-kros.jpg"
-  }
+  },
   {
     "id": 2,
     "Модель": "AF245",
@@ -16,7 +16,7 @@
     "Размеры" : "39, 40, 41, 42, 43, 44",
     "Описание": "Материал изготовления, характеристики.",
     "image_url": "https://raw.githubusercontent.com/aflemo/Goods/refs/heads/main/AW245-kros.jpg"
-  }
+  },
   {
     "id": 3,
     "Модель": "SS25",
