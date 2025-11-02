@@ -1,6 +1,6 @@
 [
   {
-    "Код товара": 1,
+    "id": 1,
     "Модель": "AW24",
     "Цена": 2500,
     "category": "Кроссовки",
@@ -9,7 +9,7 @@
     "image_url": "https://raw.githubusercontent.com/aflemo/Goods/refs/heads/main/AW24-kros.jpg"
   },
   {
-    "Код товара": 2,
+    "id": 2,
     "Модель": "AF245",
     "Цена": 4500,
     "category": "Кроссовки",
@@ -18,7 +18,7 @@
     "image_url": "https://raw.githubusercontent.com/aflemo/Goods/refs/heads/main/AW245-kros.jpg"
   },
   {
-    "Код товара": 3,
+    "id": 3,
     "Модель": "SS25",
     "Цена": 1800,
     "category": "Кроссовки",
