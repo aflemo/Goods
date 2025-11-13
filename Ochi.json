@@ -1,24 +1,27 @@
   [
     {
-    "Код товара": "ААВ",
+    "Код_товара": "ААВ",
     "Модель": "ААВ",
     "Цена": 500,
+    "Цвет_оправы": "Чёрный, Серый, Золотой",  
     "category": "Очки",
     "Описание": "Описание, характеристики.",
     "image_url": "https://raw.githubusercontent.com/aflemo/Goods/refs/heads/main/AAB-ochi.jpg"
   },
   {
-    "Код товара": "АSА",
+    "Код_товара": "АSА",
     "Модель": "АSА",
     "Цена": 450,
+    "Цвет_оправы": "Чёрный, Серый, Золотой",
     "category": "Очки",
     "Описание": "Описание, характеристики.",
     "image_url": "https://raw.githubusercontent.com/aflemo/Goods/refs/heads/main/AA-ochi.jpg"
   },
   {
-    "Код товара": "SS24",
+    "Код_товара": "SS24",
     "Модель": "SS24",
     "Цена": 1800,
+    "Цвет_оправы": "Чёрный, Серый, Золотой",
     "category": "Очки",
     "Описание": "Описание, характеристики.",
     "image_url": "https://raw.githubusercontent.com/aflemo/Goods/refs/heads/main/SS24-ochi.jpg"
