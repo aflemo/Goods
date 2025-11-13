@@ -1,10 +1,10 @@
-  [
-    {
+ [
+  {
     "id": 1,
     "Код_товара": "ААВ",
     "Модель": "ААВ",
     "Цена": 500,
-    "Цвет_оправы": "Чёрный, Серый, Золотой",  
+    "Цвет_оправы": "Чёрный, Серый, Золотой",
     "category": "Очки",
     "Описание": "Описание, характеристики.",
     "image_url": "https://raw.githubusercontent.com/aflemo/Goods/refs/heads/main/AAB-ochi.jpg"
@@ -30,4 +30,3 @@
     "image_url": "https://raw.githubusercontent.com/aflemo/Goods/refs/heads/main/SS24-ochi.jpg"
   }
 ]
-
