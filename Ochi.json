@@ -15,7 +15,7 @@
     "Модель": "АSА",
     "Цена": 450,
     "Цвет_оправы": "Чёрный, Серый, Золотой",
-    "category": "Очки",
+    "Категория": "Очки",
     "Описание": "Описание, характеристики.",
     "image_url": "https://raw.githubusercontent.com/aflemo/Goods/refs/heads/main/AA-ochi.jpg"
   },
@@ -25,7 +25,7 @@
     "Модель": "SS24",
     "Цена": 1800,
     "Цвет_оправы": "Чёрный, Серый, Золотой",
-    "category": "Очки",
+    "Категория": "Очки",
     "Описание": "Описание, характеристики.",
     "image_url": "https://raw.githubusercontent.com/aflemo/Goods/refs/heads/main/SS24-ochi.jpg"
   }
